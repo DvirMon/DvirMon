@@ -1,8 +1,10 @@
 # Hi there, I'm Dvir Monajem 👋
 
-## Welcome to my GitHub profile!
+**`Full-Stack Developer `**
 
-I'm a [Your Job Title or Role], passionate about [Your Interests] and constantly learning about [Technologies or Fields of Interest].
+As a Full-Stack Developer, I combine creative design with advanced programming to build unique online experiences. 
+ I'm experienced with technologies like Angular, RxJx, NgRx, and Node.js, which allows me to handle a wide range of web development projects. 
+My focus is on creating easy-to-use interfaces and reliable systems to improve your digital footprint.
 
 ### 🌱 What I'm currently learning
 
