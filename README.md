@@ -1,16 +1,18 @@
-# Dvir Monajem👋
+# Hi there, I'm Dvir Monajem 👋
 
-<!--
-**DvirMon/DvirMon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a [Your Job Title or Role], passionate about [Your Interests] and constantly learning about [Technologies or Fields of Interest].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm currently learning
+
+- List the technologies, languages, or projects you're currently working on or learning.
+
+### 🔭 Projects
+
+- Highlight some of your best projects, what they do, and what technologies you used. Consider providing links to the repositories.
+
+### 📄 My Resume
+
+- You can link to your resume or any online CV if you're comfortable sharing it.
+
