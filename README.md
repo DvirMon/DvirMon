@@ -28,22 +28,18 @@ My focus is on creating easy-to-use interfaces and reliable systems to improve y
 ### 🔭 Projects
 
 <a href="https://coincryptohub.web.app/" target="_blank" style="display: inline-block; margin: 10px;">
-  <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins Dashboard" width="300" style="padding: 10px;">
+  <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins" width="300" style="padding: 10px;">
 </a>
 
-<a href="https://coincryptohub.web.app/" target="_blank" style="display: inline-block; margin: 10px;">
-  <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins Dashboard" width="300" style="padding: 10px;">
+<a href="https://travel-on-811d5.firebaseapp.com/" target="_blank" style="display: inline-block; margin: 10px;">
+  <img src="https://github.com/DvirMon/DvirMon/blob/main/travel-app.png" alt="Travel-On" width="300" style="padding: 10px;">
 </a>
 
-<a href="https://coincryptohub.web.app/" target="_blank" style="display: inline-block; margin: 10px;">
-  <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins Dashboard" width="300" style="padding: 10px;">
+<a href="https://angular-books-scape.firebaseapp.com/home" target="_blank" style="display: inline-block; margin: 10px;">
+  <img src="https://github.com/DvirMon/DvirMon/blob/main/books-scape-app.png" alt="Books-Scape" width="300" style="padding: 10px;">
 </a>
 
-<a href="https://coincryptohub.web.app/" target="_blank" style="display: inline-block; margin: 10px;">
-  <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins Dashboard" width="300" style="padding: 10px;">
+<a href="https://comrax-dev.dlz8gx14w80dd.amplifyapp.com/" target="_blank" style="display: inline-block; margin: 10px;">
+  <img src="https://github.com/DvirMon/DvirMon/blob/main/comrax-ui.png" alt="Kakakl-UI" width="300" style="padding: 10px;">
 </a>
-
-### 📄 My Resume
-
-- You can link to your resume or any online CV if you're comfortable sharing it.
 
