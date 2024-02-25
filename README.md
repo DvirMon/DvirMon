@@ -28,7 +28,7 @@ My focus is on creating easy-to-use interfaces and reliable systems to improve y
 ### 🔭 Projects
 
 <a href="https://coincryptohub.web.app/" target="_blank">
-  <img src="./images/your-image-name.png" alt="Crypto-Coins Dashboard" width="600">
+  <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins Dashboard" width="250">
 </a>
 
 ### 📄 My Resume
