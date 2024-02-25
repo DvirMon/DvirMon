@@ -26,8 +26,7 @@ My focus is on creating easy-to-use interfaces and reliable systems to improve y
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 <br />
-<br />
-#
+
 ### 🔭 Projects
 
 <a href="https://coincryptohub.web.app/" target="_blank">
