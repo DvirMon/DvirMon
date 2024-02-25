@@ -6,6 +6,8 @@ As a Full-Stack Developer, I combine creative design with advanced programming t
  I'm experienced with technologies like Angular, RxJx, NgRx, and Node.js, which allows me to handle a wide range of web development projects. 
 My focus is on creating easy-to-use interfaces and reliable systems to improve your digital footprint.
 
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -24,11 +26,13 @@ My focus is on creating easy-to-use interfaces and reliable systems to improve y
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 <br />
-
+<br />
 #
 ### 🔭 Projects
 
-- Highlight some of your best projects, what they do, and what technologies you used. Consider providing links to the repositories.
+<a href="https://coincryptohub.web.app/" target="_blank">
+  <img src="./images/your-image-name.png" alt="Description of Image" width="600">
+</a>
 
 ### 📄 My Resume
 
