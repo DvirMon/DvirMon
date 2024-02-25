@@ -27,8 +27,20 @@ My focus is on creating easy-to-use interfaces and reliable systems to improve y
 
 ### 🔭 Projects
 
-<a href="https://coincryptohub.web.app/" target="_blank">
-  <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins Dashboard" width="250">
+<a href="https://coincryptohub.web.app/" target="_blank" style="display: inline-block; margin: 10px;">
+  <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins Dashboard" width="300" style="padding: 10px;">
+</a>
+
+<a href="https://coincryptohub.web.app/" target="_blank" style="display: inline-block; margin: 10px;">
+  <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins Dashboard" width="300" style="padding: 10px;">
+</a>
+
+<a href="https://coincryptohub.web.app/" target="_blank" style="display: inline-block; margin: 10px;">
+  <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins Dashboard" width="300" style="padding: 10px;">
+</a>
+
+<a href="https://coincryptohub.web.app/" target="_blank" style="display: inline-block; margin: 10px;">
+  <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins Dashboard" width="300" style="padding: 10px;">
 </a>
 
 ### 📄 My Resume
