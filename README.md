@@ -35,7 +35,7 @@ My focus is on creating easy-to-use interfaces and reliable systems to improve y
   <img src="https://github.com/DvirMon/DvirMon/blob/main/travel-app.png" alt="Travel-On" width="300" style="padding: 10px;">
 </a>
 
-<a href="https://https://ng-books-scape.firebaseapp.com" target="_blank" style="display: inline-block; margin: 10px;">
+<a href="https:///ng-books-scape.firebaseapp.com" target="_blank" style="display: inline-block; margin: 10px;">
   <img src="https://github.com/DvirMon/DvirMon/blob/main/books-scape-app.png" alt="Books-Scape" width="300" style="padding: 10px;">
 </a>
 
