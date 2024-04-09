@@ -51,10 +51,10 @@ My focus is on creating easy-to-use interfaces and reliable systems to improve y
         <img src="https://github.com/DvirMon/DvirMon/blob/main/comrax-ui.png" alt="Kakakl-UI" width="300">
       </a>
     </td>
-    <td>
+<!--     <td>
       <a href="https://coincryptohub.web.app/" target="_blank">
         <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins" width="300">
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
