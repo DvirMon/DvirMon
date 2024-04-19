@@ -31,9 +31,23 @@ My focus is on creating easy-to-use interfaces and reliable systems to improve y
           
 <br />
 <br />
+<br />
 
 #
+### 🔭 Stats
 
+<img align="left" height="170px" alt="Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=DvirMon&show_icons=true"/>
+<img align="left" height="170px" alt="Language" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvirMon&layout=compact"/>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br/>
+
+#
 ### 🔭 Projects
 
 <table>
