@@ -2,11 +2,12 @@
 
 **`Full-Stack Developer `**
 
-As a Full-Stack Developer, I combine creative design with advanced programming to build unique online experiences. 
- I'm experienced with technologies like Angular, RxJx, NgRx, and Node.js, which allows me to handle a range of web development projects. 
-My focus is on creating easy-to-use interfaces and reliable systems to improve your digital footprint.
-
----
+- I combine creative design with advanced programming to build unique online experiences.
+- I'm experienced with technologies like Angular, RxJx, NgRx, and Node.js, which allows me 
+  to handle a range of web development projects.
+- I am self-motivated and capable of working independently while also being an excellent team player.
+- I am a fast learner, ready to adapt to the latest technologies, and continuously update my skills 
+  with the technologies I use.
 
 ### 🧰 Languages and Tools
 
