@@ -64,30 +64,14 @@
   <tr>
     <td>
       <a href="https://travel-on-811d5.firebaseapp.com/" target="_blank">
-        <img src="https://github.com/DvirMon/DvirMon/blob/main/travel-app.png" alt="Travel-On" width="300">
+        <img src="https://github.com/DvirMon/DvirMon/blob/main/travel-app.png" alt="Travel-On" width="500">  <!-- Increased width from 300 to 500 -->
       </a>
     </td>
     <td>
-      <a href="https://ng-books-scape.firebaseapp.com" target="_blank">
-        <img src="https://github.com/DvirMon/DvirMon/blob/main/books-scape-app.png" alt="Books-Scape" width="300">
-      </a>
+      <b>Travel-On</b>: Explore the world with Travel-On! 
+          <br>
+      <b>Tools Used:</b> Angular 18, NgRx, Firebase Authentication, Nodemailer
     </td>
-    <td>
-      <a href="https://ng-weather-space.firebaseapp.com/" target="_blank">
-        <img src="https://github.com/DvirMon/DvirMon/blob/main/weather-space.png" alt="Weather-Space" width="300">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://comrax-dev.dlz8gx14w80dd.amplifyapp.com/" target="_blank">
-        <img src="https://github.com/DvirMon/DvirMon/blob/main/comrax-ui.png" alt="Kakakl-UI" width="300">
-      </a>
-    </td>
-<!--     <td>
-      <a href="https://coincryptohub.web.app/" target="_blank">
-        <img src="https://github.com/DvirMon/DvirMon/blob/main/coins-app.png" alt="Crypto-Coins" width="300">
-      </a>
-    </td> -->
   </tr>
 </table>
+
