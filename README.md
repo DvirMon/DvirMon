@@ -1,17 +1,17 @@
 # Hi there, I'm Dvir Monajem 🦊👨‍💻
 
 
-**`Full-Stack Developer `**
+**`Full-Stack Developer | Angular Enthusiast `**
 
-- I combine creative design with advanced programming to build unique online experiences.
-- I'm experienced with technologies like Angular, RxJx, NgRx, and Node.js, which allows me 
-  to handle various web development projects.
-- I am self-motivated and capable of working independently while also being an excellent team player.
-- I am a fast learner, ready to adapt to the latest technologies, and continuously update my skills 
-  with the technologies I use.
+- I am an entry-level **Full-Stack Developer** with 1 year of experience
+- I have hands-on experience with **Angular** and **Angular Materials** creating responsive web pages.
+- I have hands-on experience with **RxJS** for handling data changes and **NgRx** for managing app state.
+- I have a B.Sc. in life sciences from Bar Ilan University with distinction.
+- I graduated from John Bryce’s Full Stack Developer course.
 
 ### 🧰 Front Technical Skills 
 
+<a href="#">
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -23,17 +23,20 @@
 <img align="left" alt="NgRx" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg" />
 <img align="left" alt="AngualrMaterial" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />
 <img align="left" alt="MUI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
-          
+</a>
+
 <br />
 <br />
 <br />
 
 ### 🧰 Back Technical Skills 
 
+<a href="#">
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Psotmen" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-          
+</a>
+     
 <br />
 <br />
 <br />
@@ -54,6 +57,7 @@
 <br/>
 
 #
+
 ### 🔭 Projects
 
 <table>
