@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://travel-on-811d5.firebaseapp.com/" target="_blank">
+      <a href="https://ng-travel-on.firebaseapp.com" target="_blank">
         <img src="https://github.com/DvirMon/DvirMon/blob/main/travel-app.png" alt="Travel-On" width="500">  <!-- Increased width from 300 to 500 -->
       </a>
     </td>
