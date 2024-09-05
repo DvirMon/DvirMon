@@ -3,22 +3,77 @@
 
 **`Full-Stack Developer | Angular Enthusiast `**
 
-- I am an entry-level **Full-Stack Developer** with 1 year of experience
-- I have hands-on experience with **Angular** and **Angular Materials** creating responsive web pages.
-- I have hands-on experience with **RxJS** for handling data changes and **NgRx** for managing app state.
-- I have a B.Sc. in life sciences from Bar Ilan University with distinction.
-- I graduated from John Bryce’s Full Stack Developer course.
-#
-### 🧰 Front Technical Skills 
+## 👨‍💻🦊 About
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,scss,angular,react)](https://skillicons.dev)
+```typescript
 
-### 🧰 Back Technical Skills 
+interface FrontendSkills {
+  useAngular(): void;
+  useAngularMaterial(): void;
+  useRxJS(): void;
+}
+
+interface BackendSkills {
+  useNodeJS(): void;
+  useMongoDB(): void;
+}
+
+interface Tools {
+  useGit(): void;
+  useGitHub(): void;
+  usePostman(): void;
+}
+
+@Component({
+  selector: 'app-dvir-monajem',
+  standalone: true,
+  changeDetection: ChangeDetectionStrategy.OnPush,
+})
+export class DvirMonajemComponent implement FrontendSkills, BackendSkills, Tools {
+
+  name: string = 'Dvir Monajem';
+  experience: number = 1;
+
+  useAngular() {
+    console.log('Building UI with Angular...');
+  }
+
+  useAngularMaterial() {
+    console.log('Styling with Angular Material...');
+  }
+
+  useRxJS() {
+    console.log('Managing data streams with RxJS...');
+  }
+
+// more skils here...
+
+  lookingForPosition(): string {
+    return 'Currently open to new opportunities! 🚀';
+  }
+
+  getMotivation(): string {
+    return 'Never stop learning, never stop coding! 💻🔥';
+  }
+}
+```
+
+## 🧰 Skills
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
+
+### Front Technical 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,rxjs,scss)](https://skillicons.dev)
+
+### Back Technical 
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongo,postman)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,)](https://skillicons.dev)
      
-#
-### 🔭 Stats
+## 🏆 Achievements
 
 <img align="left" height="170px" alt="Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=DvirMon&show_icons=true"/>
 <img align="left" height="170px" alt="Language" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvirMon&layout=compact"/>
@@ -30,11 +85,9 @@
 <br />
 <br />
 <br/>
-<br/>
 
-#
 
-### 🔭 Projects
+## 🔭 Projects
 
 <table>
   <tr>
